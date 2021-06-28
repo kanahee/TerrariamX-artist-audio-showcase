@@ -1,4 +1,4 @@
-# Artist Audio Showcase
+# Artist Audio Showcase :notes:
 ## Sections
-## Audio Player
-## Contact / Booking
+## Audio Player :arrow_forward:
+## Contact / Booking :e-mail:
